@@ -18,7 +18,7 @@ def parseJson(city, response):
     print ("The weather in " + city + " is " +dict['list'][0]['weather'][0]['description'])
   else:
     response.raise_for_status()
-
+    
 
 if __name__ == "__main__":
   getWeatherForLatitudeAndLongitude(sys.argv[1])
