@@ -1,0 +1,28 @@
+{
+  "name": "Mausam",
+  "version": "1.0",
+  "description": "Layover a weather view on google maps",
+  "icons": { "128": "icon.png" },
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": false
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://*/*"],
+      "js": ["mappy_content_script.js"]
+    }
+  ],
+  "permissions": [
+    "storage",
+    "https://maps.google.com/*",
+    "https://maps.googleapis.com/*"
+  ],
+  "page_action": {
+      "default_name": "Display Map",
+      "default_icon": "marker.png",
+      "default_popup": "popup.html"
+  },
+  "manifest_version": 2,
+  "content_security_policy": "default-src *; style-src 'self' http://* 'unsafe-inline'; script-src 'self' https://maps.googleapis.com https://ajax.googleapis.com https://maps.gstatic.com 'unsafe-inline' 'unsafe-eval'; connect-src https://maps.googleapis.com; img-src 'self' data: https://maps.googleapis.com https://maps.gstatic.com; font-src https://fonts.gstatic.com "
+}
