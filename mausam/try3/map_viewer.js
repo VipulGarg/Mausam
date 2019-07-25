@@ -18,22 +18,17 @@ chrome.runtime.onMessage.addListener(
   });
 
 function renderMap(latitude, longitude) {
-  // var map = new GMap2(document.getElementById('map_canvas'));
-  // map.setCenter(new GLatLng(latitude, longitude), 13);
-  // var marker = new GMarker(new GPoint(lng, lat));
-  // map.addOverlay(marker);
-
   var directionsDisplay = new google.maps.DirectionsRenderer();
   var directionsService = new google.maps.DirectionsService();
 
-  var hattisar = new google.maps.LatLng(27.72,85.36);
-  var boudha = new google.maps.LatLng(27.71,85.31);
+  var hattisar = new google.maps.LatLng(47.606200, -122.332100);
+  var boudha = new google.maps.LatLng(37.774889, -122.419389);
 
   var mapOptions = {
     zoom: 14,
     center: boudha
   }
-  var map = new google.maps.Map(document.getElementById('map_canvas'), mapOptions);
+  var map = new google.maps.Map(document.getElementById('map-canvas'), mapOptions);
   directionsDisplay.setMap(map);
 
   var request = {

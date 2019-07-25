@@ -1,20 +1,18 @@
 <!DOCTYPE html>
-<meta http-equiv="Content-Security-Policy" content="default-src * https://fonts.gstatic.com; style-src 'self' http://* 'unsafe-inline'; script-src 'self' http://* 'unsafe-inline' 'unsafe-eval'; font-src https://fonts.gstatic.com; img-src 'self' https://maps.gstatic.com data:" />
+<meta http-equiv="Content-Security-Policy" content="default-src * https://fonts.gstatic.com; style-src 'self' http://* 'unsafe-inline'; script-src 'self' http://* 'unsafe-inline' 'unsafe-eval'; font-src https://fonts.gstatic.com; img-src 'self' https://maps.googleapis.com https://maps.gstatic.com data:" />
 <html>
     <head>
       <script type="text/javascript" src="map_viewer.js"></script>
       <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
       <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?libraries=places&key=AIzaSyC2DirgMMx7pAETYhIJEENJsf7l52JD98k"></script>
+      <style>
+        #map-canvas {
+          width: 500px;
+          height: 500px;
+        }
+      </style>
     </head>
 <body>
-    <div id="map_canvas"></div>
-
-<h2>JavaScript Functions</h2>
-
-<p>The value of <b>this</b>, in an object method, is the owner object.</p>
-
-<p id="demo"></p>
-
-   
+    <div id="map-canvas"></div>   
 </body>
 </html>
