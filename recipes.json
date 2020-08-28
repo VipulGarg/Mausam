@@ -413,5 +413,167 @@
       "Protein": "10g",
       "Fat": "5g"
     }
+  },
+  {
+    "recipeName": "Aloo Gobhi",
+    "chefName": "Sanjeev Kapoor",
+    "url": "https://www.sanjeevkapoor.com/recipe/Aloo-Gobhi.html",
+    "ingredients": [
+      {
+        "name": "Potato",
+        "quantity": "3 medium"
+      },
+      {
+        "name": "Cauliflower",
+        "quantity": "0.5 small"
+      },
+      {
+        "name": "Oil",
+        "quantity": "2 tablespoon"
+      },
+      {
+        "name": "Cumin Seeds",
+        "quantity": "2 tablespoon"
+      },
+      {
+        "name": "Ghee",
+        "quantity": "3 tablespoon"
+      },
+      {
+        "name": "Cumin Seeds",
+        "quantity": "2 tablespoon"
+      },
+      {
+        "name": "Ginger-garlic paste",
+        "quantity": "2 tablespoon"
+      },
+      {
+        "name": "Dried Mango Powder",
+        "quantity": "1 tablespoon"
+      },
+      {
+        "name": "Red chilli powder",
+        "quantity": "1 teaspoon"
+      },
+      {
+        "name": "Turmeric powder",
+        "quantity": "0.25 teaspoon"
+      },
+      {
+        "name": "Garam Masala powder",
+        "quantity": "1.5 teaspoon"
+      },
+      {
+        "name": "Coriander powder",
+        "quantity": "2 tablespoon"
+      },
+      {
+        "name": "Fresh Coriander",
+        "quantity": "To Taste"
+      },
+      {
+        "name": "Salt",
+        "quantity": "To Taste"
+      }
+    ],
+    "steps": [
+      "Peel the potatoes, halve and slice. You can also cut them into small pieces. Wash the cauliflower, remove stems and separate into florets.",
+      "Trim the stem and cut into small pieces. Heat one to one and a half tablespoons of oil in a kadai.",
+      "Add cumin seeds, ginger, green chillies and sauté. Add potato pieces, cauliflower pieces and salt.",
+      "Mix and add turmeric powder and mix well. Cover and cook on low heat.",
+      "The vegetables should cook in their own steam. Keep stirring from time to time.",
+      "After about ten minutes, remove the cover and add coriander powder, red chilli powder and garam masala powder.",
+      "Mix and cover again. Cook till the vegetables are totally tender. Serve hot garnished with sprigs of fresh coriander."
+    ],
+    "nutritionInfo": {
+      "Calories": "630",
+      "Carbohydrates": "87",
+      "Protein": "11g",
+      "Fat": "26g"
+    }
+  },
+  {
+    "recipeName": "Aloo Gobhi",
+    "chefName": "Manali",
+    "url": "https://www.cookwithmanali.com/punjabi-chole-chickpeas-curry/",
+    "ingredients": [
+      {
+        "name": "Potato",
+        "quantity": "2 medium"
+      },
+      {
+        "name": "Onion",
+        "quantity": "2 medium"
+      },
+      {
+        "name": "Tomato",
+        "quantity": "2 medium"
+      },
+      {
+        "name": "Onion",
+        "quantity": "2 medium"
+      },
+      {
+        "name": "Oil",
+        "quantity": "3 tablespoon"
+      },
+      {
+        "name": "Cumin Seeds",
+        "quantity": "2 tablespoon"
+      },
+      {
+        "name": "Ginger-garlic paste",
+        "quantity": "2 tablespoon"
+      },
+      {
+        "name": "Dried Mango Powder",
+        "quantity": "1 tablespoon"
+      },
+      {
+        "name": "Red chilli powder",
+        "quantity": "1 teaspoon"
+      },
+      {
+        "name": "Turmeric powder",
+        "quantity": "0.25 teaspoon"
+      },
+      {
+        "name": "Garam Masala powder",
+        "quantity": "1.5 teaspoon"
+      },
+      {
+        "name": "Coriander powder",
+        "quantity": "2 tablespoon"
+      },
+      {
+        "name": "Fresh Coriander",
+        "quantity": "To Taste"
+      },
+      {
+        "name": "Salt",
+        "quantity": "To Taste"
+      }
+    ],
+    "steps": [
+      "Heat 2 teaspoon of oil in a pan on medium heat. Add cauliflower florets and fry for 2-3 minutes and then add the sliced potatoes.",
+      "Fry on medium-low flame for 7-8 minutes till potatoes and cauliflower have some brown spots on them.",
+      "Drain on a tissue paper and set aside.",
+      "In the same pan heat 1.5 teaspoon of oil on medium heat and add cumin seeds and let them crackle.",
+      "Add the onions and cook for 2 minutes till translucent.",
+      "Add the ginger-garlic paste and cook for another 2 minutes or till the raw smell goes away.",
+      "Add the chopped tomatoes and cook for 2 minutes till they are little soft.",
+      "Add turmeric powder, red chilli powder, coriander powder and amchur (mango powder).",
+      "Cover the pan and let the masala cook for 2-3 minutes and then add the potatoes and cauliflower to it and mix.",
+      "Add chopped coriander leaves and give a good mix.",
+      "Add garam masala and cook the potato and cauliflower on medium-low heat for 5-6 minutes.",
+      "Add salt and cover the pan and cook more additional 6-7 minutes on low flame or till the potato and cauliflower are tender but not soggy. If you feel the masala is sticking, you may add some water. Add 1 tablespoon at a time and only add enough to cook the veggies. I did not add any water in mine.",
+      "Garnish with some more coriander leaves and serve hot with any Indian bread."
+    ],
+    "nutritionInfo": {
+      "Calories": "304",
+      "Carbohydrates": "52g",
+      "Protein": "12g",
+      "Fat": "7g"
+    }
   }
 ]
