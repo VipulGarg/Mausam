@@ -1,3 +1,237 @@
+[
+  {
+    "recipeName":"Paneer Tikka Masala",
+    "chefName":"Sanjeev Kapoor",
+    "url":"https://www.sanjeevkapoor.com/recipe/Paneer-Tikka-Masala.html",
+    "ingredients":[
+      {
+        "name":"Paneer",
+        "quantity":"200g"
+      },
+      {
+        "name":"Onion",
+        "quantity":"3 large"
+      },
+      {
+        "name":"Tomato",
+        "quantity":"3 large"
+      },
+      {
+        "name":"Green Capsicum",
+        "quantity":"0.5 medium"
+      },
+      {
+        "name":"Yogurt",
+        "quantity":"0.5 cup"
+      },
+      {
+        "name":"Cream",
+        "quantity":"0.5 cup"
+      },
+      {
+        "name":"Ginger",
+        "quantity":"1 inch piece"
+      },
+      {
+        "name":"Green Chillies",
+        "quantity":"2"
+      },
+      {
+        "name":"Mustard Oil",
+        "quantity":"2 tablespoon"
+      },
+      {
+        "name":"Red chilli powder",
+        "quantity":"2 teaspoon"
+      },
+      {
+        "name":"Turmeric powder",
+        "quantity":"0.25 teaspoon"
+      },
+      {
+        "name":"Garam Masala powder",
+        "quantity":"1.5 teaspoon"
+      },
+      {
+        "name":"Coriander powder",
+        "quantity":"2 tablespoon"
+      },
+      {
+        "name":"Lemon Juice",
+        "quantity":"1.5 tablespoon"
+      },
+      {
+        "name":"Oil",
+        "quantity":"3 tablespoon"
+      },
+      {
+        "name":"Kasoori Methi",
+        "quantity":"1 teaspoon"
+      },
+      {
+        "name":"Ginger Garlic Paste",
+        "quantity":"2 tablespoon"
+      },
+      {
+        "name":"Cumin Seeds",
+        "quantity":"1 teaspoon"
+      },
+      {
+        "name":"Cashewnut Paste",
+        "quantity":"0.5 cup"
+      },
+      {
+        "name":"Fresh Coriander",
+        "quantity":"To Taste"
+      },
+      {
+        "name":"Salt",
+        "quantity":"To Taste"
+      }
+     ]
+  },
+  "steps":[
+    "In a bowl take yogurt, one teaspoon red chilli powder, salt, one-fourth teaspoon dried fenugreek leaves, one tablespoon ginger garlic paste, one tablespoon lime juice, half teaspoon garam masala powder and two table spoons of mustard oil. Whisk well and keep aside.",
+    "Cut paneer into cubes, cut onion into one inch pieces and separate the layers, cut one tomato into half, remove the pulp and cut into cubes.",
+    "Add the cut capsicum, onions and tomatoes to the yogurt mixture. Mix well. Add paneer cubes and mix gently. Keep aside to marinate.",
+    "In a pan heat two tablespoons of oil. Add cumin seeds and 2 finely chopped onions to the pan. Cook for seven to eight minutes or till onions start browning.",
+    "Skewer Pieces of onion, tomato, capsicum and paneer on the satay sticks.",
+    "Add one tablespoon ginger garlic paste to onions. Sauté for a minute.",
+    "Add two finely chopped tomatoes and cook for five minutes.",
+    "Heat 2 teaspoons oil in a grill pan, place the paneer skewers on it and cook for two minutes on each side.",
+    "To the onion tomato masala, add one teaspoon chilli powder, one tablespoon coriander powder, half teaspoon garam masala powder, one-fourth teaspoon turmeric powder and salt. Mix well.",
+    "Add ginger juliennes, slit green chillies and cashewnut paste to the pan. Mix well.",
+    "Add half cup water and mix well. Add fresh cream and mix.",
+    "Add the skewered veggies to the masala.",
+    "Add half teaspoon garam masala powder, one-fourth teaspoon kasoori methi and remaining lime juice. Mix.",
+    "Garnish with chopped coriander and serve hot."
+  ],
+  "nutritionInfo":{
+     "Calories":2369,
+     "Carbohydrates":"79g",
+     "Protein":"65g",
+     "Fat":"199g"
+  },
 {
-
-}
+    "recipeName":"Paneer Tikka Masala",
+    "chefName":"Manali",
+    "url":"https://www.cookwithmanali.com/paneer-tikka-masala/",
+    "ingredients":[
+      {
+        "name":"Paneer",
+        "quantity":"250g"
+      },
+      {
+        "name":"Onion",
+        "quantity":"3 large"
+      },
+      {
+        "name":"Tomato",
+        "quantity":"3 large"
+      },
+      {
+        "name":"Cinnamon",
+        "quantity":"1"
+      },
+      {
+        "name":"Green Capsicum",
+        "quantity":"0.5 medium"
+      },
+      {
+        "name":"Yogurt",
+        "quantity":"0.5 cup"
+      },
+      {
+        "name":"Cream",
+        "quantity":"0.5 cup"
+      },
+      {
+        "name":"Ginger",
+        "quantity":"1 inch piece"
+      },
+      {
+        "name":"Green Chillies",
+        "quantity":"2"
+      },
+      {
+        "name":"Mustard Oil",
+        "quantity":"2 tablespoon"
+      },
+      {
+        "name":"Red chilli powder",
+        "quantity":"2 teaspoon"
+      },
+      {
+        "name":"Turmeric powder",
+        "quantity":"0.25 teaspoon"
+      },
+      {
+        "name":"Garam Masala powder",
+        "quantity":"1.5 teaspoon"
+      },
+      {
+        "name":"Coriander powder",
+        "quantity":"2 tablespoon"
+      },      
+      {
+        "name":"Sugar",
+        "quantity":"1 tablespoon"
+      },
+      {
+        "name":"Lemon Juice",
+        "quantity":"1.5 tablespoon"
+      },
+      {
+        "name":"Oil",
+        "quantity":"3 tablespoon"
+      },
+      {
+        "name":"Kasoori Methi",
+        "quantity":"1 teaspoon"
+      },
+      {
+        "name":"Ginger Garlic Paste",
+        "quantity":"2 tablespoon"
+      },
+      {
+        "name":"Cumin Seeds",
+        "quantity":"1 teaspoon"
+      },
+      {
+        "name":"Cashewnut Paste",
+        "quantity":"0.5 cup"
+      },
+      {
+        "name":"Fresh Coriander",
+        "quantity":"To Taste"
+      },
+      {
+        "name":"Salt",
+        "quantity":"To Taste"
+      }
+     ]
+  },
+  "steps":[
+    "Cut the paneer into small cubes, add in the chopped ginger, garlic, coriander powder, garam masala powder, paprika powder, salt and red chilli powder.",
+    "Add in the yogurt and mix till all the paneer pieces are well coated with the spices and yogurt.",
+    "Cover and keep this marinated paneer in the refrigerator for 30-40 minutes.",
+    "Heat 1 tbsp of butter and 1 tbsp of oil in a pan. Once hot add cinnamon stick and cumin seeds.",
+    "Once the seeds crackle, add the chopped onions, crushed garlic pods and chopped ginger. Fry till onions turn golden brown in color.",
+    "Once onions are done, add the tomatoes and the curry powder and mix. Also add the the salt and sugar.",
+    "Cook the tomatoes on medium flame till they are soft, around 6-7 minutes.",
+    "Once the mixture is cooked, switch off the flame and allow it to cool a bit. Pour the mixture into a blender and puree it. Set aside.",
+    "Roast the marinated paneer till golden brown in color from both sides.",
+    "Pour the pureed masala in a wok/kadhai and add water to it. Stir and add cream and chopped coriander leaves.",
+    "Cover and cook for 4-5 minutes on medium-low flame.",
+    "Add the roasted paneer pieces, let it simmer for 2-3 minutes.",
+    "Switch off the flame and garnish with chopped coriander leaves and cream.",
+    "Serve hot with butter naan or any bread of your choice."
+  ],
+  "nutritionInfo":{
+     "Calories":325,
+     "Carbohydrates":"11g",
+     "Protein":"14g",
+     "Fat":"25g"
+  }
+  
+]
