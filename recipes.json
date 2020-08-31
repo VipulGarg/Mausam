@@ -644,7 +644,99 @@
       "Add coriander powder, cumin powder, turmeric powder, chilli powder, salt, fresh tomato puree and readymade tomato puree, mix well and cook for 2-3 minutes.",
       "Add little water and mix. Add green peas, mix, cover and cook for 2 minutes",
       "Add cottage cheese cubes and mix. Add garam masala powder, mix well and cook for a minute.",
-      "Switch off heat, add coriander leaves and mix well.",
+      "Switch off heat, add coriander leaves and mix well."
     ]
+  },
+  {
+    "recipeName": "Matar Paneer",
+    "chefName": "Manali",
+    "url": "https://www.cookwithmanali.com/matar-paneer/",
+    "ingredients": [
+      {
+        "name": "Paneer",
+        "quantity": "250g"
+      },
+      {
+        "name": "Green Peas",
+        "quantity": "0.75 cup"
+      },
+      {
+        "name": "Oil",
+        "quantity": "2 tablespoon"
+      },
+      {
+        "name": "Cumin Seeds",
+        "quantity": "1 tablespoon"
+      },
+      {
+        "name": "Cashews",
+        "quantity": "10 whole"
+      },
+      {
+        "name": "Onion puree",
+        "quantity": "0.5 cup"
+      },
+      {
+        "name": "Tomato puree",
+        "quantity": "1 cup"
+      },
+      {
+        "name": "Ginger-garlic paste",
+        "quantity": "1 tablespoon"
+      },
+      {
+        "name": "Cumin Powder",
+        "quantity": "1 teaspoon"
+      },
+      {
+        "name": "Red chilli powder",
+        "quantity": "1 teaspoon"
+      },
+      {
+        "name": "Turmeric powder",
+        "quantity": "0.25 teaspoon"
+      },
+      {
+        "name": "Garam Masala powder",
+        "quantity": "0.5 teaspoon"
+      },
+      {
+        "name": "Coriander powder",
+        "quantity": "2 tablespoon"
+      },
+      {
+        "name": "Plain Yogurt",
+        "quantity": "2 tablespoon"
+      },
+      {
+        "name": "Fresh Coriander",
+        "quantity": "To Taste"
+      },
+      {
+        "name": "Salt",
+        "quantity": "To Taste"
+      }
+    ],
+    "steps": [
+      "Before you start with the recipe: If using store bought paneer, soak in warm water for 20 minutes before you begin the recipe. Also soak frozen green peas in warm water for 10 minutes before using in the recipe.",
+      "Heat 1 tablespoon of oil in a pot/pan on medium heat. Once the oil is hot, add 2 green cardamoms, 4-5 peppercorns and 1/2 teaspoon cumin seeds. Saute until the spices are fragrant and the cumin seeds sizzle for few seconds.",
+      "Then add the onion, ginger, garlic and green chili. Cook for 4 to 5 minutes until the onions are light brown and soft.",
+      "Then add the chopped tomatoes and 10 whole cashews and mix. Cover the pot with a lid and let it cook for 6 to 7 minutes until the tomatoes are really soft.",
+      "Remove pan from heat and let the mixture cool down a bit. Once it has cooled down a little, transfer to a blender and grind to a smooth paste. Set it aside.",
+      "Heat a tablespoon of ghee (or oil) in a pan on medium heat. Add bay leaf and then add 1/4 teaspoon red chili powder. Saute for few seconds until you see a nice bright red color.",
+      "Then add in the prepared onion-tomato paste back into the pan and mix well.",
+      "Add 3/4 teaspoon coriander powder, 1/4 teaspoon garam masala, 1/4 teaspoon cumin powder, 1/4 teaspoon turmeric, 3/4 teaspoon salt (or to taste) and 1/2 teaspoon sugar (if using). Mix well and cook the spices for one minute.",
+      "Whisk in 2 tablespoons plain yogurt, stirring continuously until it mixes well.",
+      "Then add water to the pan and let it come to a boil.",
+      "Add the paneer cubes and green peas peas. Stir and then cover the pan. Let it simmer for 6 to 7 minutes on medium heat.",
+      "Sprinkle some garam masala on top.",
+      "Garnish with cilantro and serve matar paneer with some warm rotis or parathas!"
+    ],
+    "nutritionInfo": {
+      "Calories": "306",
+      "Carbohydrates": "11g",
+      "Protein": "11g",
+      "Fat": "24g"
+    }
   }
 ]
