@@ -575,5 +575,76 @@
       "Protein": "12g",
       "Fat": "7g"
     }
+  },
+  {
+    "recipeName": "Matar Paneer",
+    "chefName": "Sanjeev Kapoor",
+    "url": "https://www.sanjeevkapoor.com/recipe/Matar-Paneer-SK-Khazana.html",
+    "ingredients": [
+      {
+        "name": "Paneer",
+        "quantity": "250g"
+      },
+      {
+        "name": "Green Peas",
+        "quantity": "0.75 cup"
+      },
+      {
+        "name": "Oil",
+        "quantity": "2 tablespoon"
+      },
+      {
+        "name": "Cumin Seeds",
+        "quantity": "1 tablespoon"
+      },
+      {
+        "name": "Onion puree",
+        "quantity": "0.5 cup"
+      },
+      {
+        "name": "Tomato puree",
+        "quantity": "1 cup"
+      },
+      {
+        "name": "Ginger-garlic paste",
+        "quantity": "1 tablespoon"
+      },
+      {
+        "name": "Cumin Powder",
+        "quantity": "1 teaspoon"
+      },
+      {
+        "name": "Red chilli powder",
+        "quantity": "1 teaspoon"
+      },
+      {
+        "name": "Turmeric powder",
+        "quantity": "0.25 teaspoon"
+      },
+      {
+        "name": "Garam Masala powder",
+        "quantity": "0.5 teaspoon"
+      },
+      {
+        "name": "Coriander powder",
+        "quantity": "2 tablespoon"
+      },
+      {
+        "name": "Fresh Coriander",
+        "quantity": "To Taste"
+      },
+      {
+        "name": "Salt",
+        "quantity": "To Taste"
+      }
+    ],
+    "steps": [
+      "Heat oil in a non-stick pan. Add cumin seeds and sauté till it changes colour.",
+      "Add onion puree, mix and sauté for 2-3 minutes. Add ginger paste and mix. Add little water, mix and saute till the mixture turns golden.",
+      "Add coriander powder, cumin powder, turmeric powder, chilli powder, salt, fresh tomato puree and readymade tomato puree, mix well and cook for 2-3 minutes.",
+      "Add little water and mix. Add green peas, mix, cover and cook for 2 minutes",
+      "Add cottage cheese cubes and mix. Add garam masala powder, mix well and cook for a minute.",
+      "Switch off heat, add coriander leaves and mix well.",
+    ]
   }
 ]
